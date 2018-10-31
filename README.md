@@ -2,6 +2,13 @@
 
 > This repository is the home of the Mapillary iOS SDK.
 
+The Mapillary SDK for iOS lets you integrate Mapillary tools into your iOS app. More features will come over time. Currently the following features are supported:
+- Authentication
+- Creation of sequences
+- Adding images to a sequence
+- Adding GPS positions to a sequence (backed by a GPX file)
+- Processing and uploading of imagery to mapillary.com
+
 
 ## Installation with CocoaPods
 
