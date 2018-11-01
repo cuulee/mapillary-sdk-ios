@@ -9,6 +9,14 @@ The Mapillary SDK for iOS lets you integrate Mapillary tools into your iOS app. 
 - Adding GPS positions to a sequence (backed by a GPX file)
 - Processing and uploading of imagery to mapillary.com
 
+## API documentation
+
+The latest generated API documentation can found [here](https://htmlpreview.github.io/?https://github.com/mapillary/mapillary-sdk-ios/blob/master/docs/docs/getting-started.html).
+
+## Example app
+
+There is an example app called [MapillarySDKExample](https://github.com/mapillary/mapillary-sdk-ios/blob/master/MapillarySDKExample) that demonstrates most of the features in the SDK.
+
 
 ## Installation with CocoaPods
 
@@ -360,13 +368,6 @@ func uploadStopped(_ uploadManager: MAPUploadManager!, status: MAPUploadManagerS
 }
 ```
 
-## Documentation
-
-The latest generated documentation can found [here](https://htmlpreview.github.io/?https://github.com/mapillary/mapillary-sdk-ios/blob/master/docs/docs/getting-started.html).
-
-## Example app
-
-There is an example app called [MapillarySDKExample](https://github.com/mapillary/mapillary-sdk-ios/blob/master/MapillarySDKExample) that demonstrates most of the features in the SDK.
 
 ## Maintainers
 @millenbop, anders@mapillary.com
